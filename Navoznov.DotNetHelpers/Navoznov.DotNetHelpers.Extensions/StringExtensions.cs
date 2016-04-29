@@ -1,7 +1,7 @@
 ﻿namespace Navoznov.DotNetHelpers.Extensions
 {
     /// <summary>
-    /// Методы расширения для класса <see cref="string"/>
+    /// Методы расширения для <see cref="string"/>
     /// </summary>
     public static class StringExtensions
     {
